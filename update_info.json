@@ -1,0 +1,19 @@
+{
+    "version": "1.0.1",
+    "download_url": "https://your-server.com/downloads/pylnstaller.exe",
+    "update_time": "2024-03-21 10:00:00",
+    "description": "1. 优化了更新系统\n2. 添加了自动检查更新功能\n3. 修复了已知问题",
+    "force_update": false,
+    "changes": [
+        {
+            "version": "1.0.1",
+            "date": "2024-03-21",
+            "description": "更新系统优化"
+        },
+        {
+            "version": "1.0.0",
+            "date": "2024-03-20",
+            "description": "初始版本发布"
+        }
+    ]
+}
